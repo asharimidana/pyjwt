@@ -1,6 +1,7 @@
 myenv/
 env/
 .vscode/
+NOTE_README.md
 __pychache__/
 app.cpython-39*
 db.sqlite
